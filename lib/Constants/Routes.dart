@@ -1,0 +1,7 @@
+
+
+const  CharactersPage = "/";
+const  CharactersDetailsPage = "/"; 
+
+
+
