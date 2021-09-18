@@ -23,7 +23,6 @@ class CharactersWebService {
       print(charactersResponse.length.toString());
       return charactersResponse;
     } else {
-      print(response.reasonPhrase);
       return charactersResponse;
     }
   }
